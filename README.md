@@ -2,7 +2,7 @@
 
 - I work on self-aware Computer Vision and Pattern Recognition foundation systems.
 - To know about my experiences [https://srirammandalika.github.io/Data/CV.pdf](https://srirammandalika.github.io/Data/CV.pdf)
-- You can reach me at [mc9991@srmist.edu.in](mc9991@srmist.edu.in)
+- You can reach me at [sriram.mandalika@student.hpi.uni-potsdam.de](sriram.mandalika@student.hpi.uni-potsdam.de)
 
 
 <a href="https://www.linkedin.com/in/naitri-rajyaguru/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
